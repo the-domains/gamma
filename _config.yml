@@ -1,0 +1,28 @@
+name: gamma
+favicon: null
+layout_spectrum: 0.0029776860028505325
+typography_spectrum: 0.8421469156164676
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6510257283225656
+  lightness: 0.05439917277544737
+  saturation: 0.9675299162045121
+  rhythmicContrast: 0.5681849755346775
+purpose: []
